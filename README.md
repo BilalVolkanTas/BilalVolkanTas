@@ -1,67 +1,154 @@
-# Hi there 👋 I'm Bilal
+# Hi there 👋 I'm Bilal Volkan Taş
 
-💡 I develop automation systems and backend solutions focused on real-world efficiency.
-
----
-
-## 🚀 About Me
-I'm a Computer Engineering student and a backend-focused developer.  
-I have a strong interest in automation systems, autonomous technologies, and solving real-world engineering problems.
-
-- 🔭 Currently focused on: Backend development & automation systems  
-- 🌱 Learning: System design & scalable architectures  
-- 💼 Open to freelance opportunities  
-- ⚡ Goal: Becoming a highly skilled backend engineer  
+💡 Backend-focused Computer Engineering student passionate about building reliable software, automation systems, and solving real-world engineering problems.
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🚀 About Me
 
-### 💻 Programming Languages
+I'm a Computer Engineering student with a strong interest in **Backend Development**, **Software Architecture**, and **Automation Systems**.
+
+I enjoy developing RESTful APIs, writing clean and maintainable code, and continuously improving my software engineering skills through real-world projects and internships.
+
+* 🔭 Currently working on **ASP.NET Core Backend Development**
+* 🌱 Currently learning **System Design, Design Patterns, and Advanced ASP.NET Core**
+* 🎯 Interested in Backend Development, Distributed Systems, and Software Architecture
+* 💼 Open to internship and backend software engineering opportunities
+
+---
+
+# 🛠️ Technologies & Tools
+
+## 💻 Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c" />
+  <img src="https://skillicons.dev/icons?i=cs,python,java,c" />
 </p>
 
-### ⚙️ Backend & Databases
+---
+
+## ⚙️ Backend Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
-### 🧰 Tools & Platforms
+**Frameworks & Technologies**
+
+* ASP.NET Core Web API
+* Entity Framework Core
+* REST API Development
+* SQL Server
+* MySQL
+* JWT Authentication
+* Redis
+* Swagger
+
+---
+
+## 🏗️ Software Architecture
+
+* Clean Architecture
+* CQRS
+* MediatR
+* Repository Pattern
+* Dependency Injection
+* FluentValidation
+* SOLID Principles
+* Object-Oriented Programming (OOP)
+
+---
+
+## 🗄️ Databases
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🎨 Frontend (Basic)
+* SQL Server
+* MySQL
+
+---
+
+## 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
+</p>
+
+---
+
+## 🎨 Frontend (Basic)
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ---
 
-## 🏆 Experience & Achievements
+# 💼 Experience
 
-### 🚁 Teknofest – Autonomous UAV Competition
-- Software Team Captain  
-- Worked on autonomous communication systems  
-- Contributed to image processing  
-- Experience in real-time systems and team leadership  
+## 💻 Backend Software Intern
 
-### 🏅 ISTEFEST Project Competition
-- Developed an application as part of a team  
-- 🥇 Achieved 1st place  
-- Focused on innovative problem-solving  
+**UBS.Mobile.Orchestrator**
 
-### 🤝 Team-Based Projects
-- Collaborated with different teams on engineering projects  
-- Experienced in teamwork, task distribution, and development processes  
+* Developed RESTful APIs using ASP.NET Core
+* Worked with Clean Architecture and CQRS
+* Implemented JWT Authentication and Redis Cache
+* Built database operations using Entity Framework Core and SQL Server
+* Collaborated using Git and GitHub in a professional software development environment
+* Participated in backend feature development and testing
 
 ---
 
-## 📫 Contact Me
-- 📧 Email:tbilalvolkan@gmail.com  
-- 💼 LinkedIn: [Bilal Volkan Taş](https://www.linkedin.com/in/bilal-volkan-ta%C5%9F-592975305/)  
+## 🚁 Teknofest – Autonomous UAV Competition
+
+**Software Team Captain**
+
+* Led the software team during the competition
+* Developed autonomous UAV communication systems
+* Worked on image processing and real-time tracking systems
+* Collaborated on mission planning and system integration
 
 ---
 
-⭐️ Feel free to explore my repositories and connect with me!
+## 🏆 ISTEFEST Project Competition
+
+🥇 **1st Place**
+
+* Developed an engineering project as part of a multidisciplinary team
+* Focused on innovative software solutions and real-world problem solving
+
+---
+
+# 📚 Currently Learning
+
+* Advanced ASP.NET Core
+* System Design
+* Design Patterns
+* Software Architecture
+* Software Testing
+
+---
+
+# 🎯 Career Goals
+
+I aim to build scalable backend systems, improve my software engineering skills, and contribute to impactful projects in a professional engineering environment.
+
+---
+
+# 📫 Contact Me
+
+📧 **Email**
+
+* [tbilalvolkan@gmail.com](mailto:tbilalvolkan@gmail.com)
+
+💼 **LinkedIn**
+
+* https://www.linkedin.com/in/bilal-volkan-ta%C5%9F-592975305/
+
+---
+
+⭐️ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me.
